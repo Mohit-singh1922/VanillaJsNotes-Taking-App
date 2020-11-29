@@ -1,8 +1,5 @@
 # Notes app using plain javascript
 
-### Install in your project
-```
-npm install @thecodeholic/plainjs-notes
 ```
 
 ### Usage
